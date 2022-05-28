@@ -1,0 +1,16 @@
+C:\Users\Alice\desktop\search\bin\Debug\net5.0\search.exe
+C:\Users\Alice\desktop\search\bin\Debug\net5.0\search.deps.json
+C:\Users\Alice\desktop\search\bin\Debug\net5.0\search.runtimeconfig.json
+C:\Users\Alice\desktop\search\bin\Debug\net5.0\search.runtimeconfig.dev.json
+C:\Users\Alice\desktop\search\bin\Debug\net5.0\search.dll
+C:\Users\Alice\desktop\search\bin\Debug\net5.0\ref\search.dll
+C:\Users\Alice\desktop\search\bin\Debug\net5.0\search.pdb
+C:\Users\Alice\desktop\search\obj\Debug\net5.0\search.csprojAssemblyReference.cache
+C:\Users\Alice\desktop\search\obj\Debug\net5.0\search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\desktop\search\obj\Debug\net5.0\search.AssemblyInfoInputs.cache
+C:\Users\Alice\desktop\search\obj\Debug\net5.0\search.AssemblyInfo.cs
+C:\Users\Alice\desktop\search\obj\Debug\net5.0\search.csproj.CoreCompileInputs.cache
+C:\Users\Alice\desktop\search\obj\Debug\net5.0\search.dll
+C:\Users\Alice\desktop\search\obj\Debug\net5.0\ref\search.dll
+C:\Users\Alice\desktop\search\obj\Debug\net5.0\search.pdb
+C:\Users\Alice\desktop\search\obj\Debug\net5.0\search.genruntimeconfig.cache
